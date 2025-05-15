@@ -1,9 +1,17 @@
 # fibonacci-solutions-tree
-This repository offers computational solutions related to the Fibonacci Sequence
+This repository offers computational solutions related to the Fibonacci Sequence using Java.
+This is the main branch and the tree contains the solutions.
+
+- Author: Constantine Lekkos
+- Created Date: 16/05/2025
 
 ---
 
-Each solution is displayed below with its relative link.
+Each solution is displayed below with its relative link:
+
+- [TODO](Add the recursive solution branch link)
+- [TODO](Add the iterative solution branch link)
+- [TODO](Add the formula solution branch link)
 
 ---
 
