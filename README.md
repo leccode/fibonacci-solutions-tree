@@ -4,6 +4,7 @@ This is the main branch and the tree contains the solutions.
 
 - Author: Constantine Lekkos
 - Created Date: 16/05/2025
+- Source: [Click to read the background by a book, if you need it!](https://www.math.hkust.edu.hk/~machas/fibonacci.pdf)
 
 ---
 
