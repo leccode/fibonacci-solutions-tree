@@ -6,7 +6,7 @@ This is the main branch and the tree contains the solutions.
 - Created Date: 16/05/2025
 - Source: [Click to read the background by a book, if you need it!](https://www.math.hkust.edu.hk/~machas/fibonacci.pdf)
 - Online Tool: [Click here to test the algorithms with an online tool and validate the outcome](https://www.calculatorsoup.com/calculators/discretemathematics/fibonacci-calculator.php)
-- Inspiration Source: [This book mentions Fibonacci and it insipired me to create this repository](https://dl.acm.org/doi/10.5555/1177299)
+- Inspiration Source: [This book mentions Fibonacci and it inspired me to create this repository](https://dl.acm.org/doi/10.5555/1177299)
 
 ---
 
