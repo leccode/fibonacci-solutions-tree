@@ -12,7 +12,7 @@ This is the main branch and the tree contains the solutions.
 
 Each solution is displayed below with its relative link:
 
-- [TODO: Add the recursive solution branch link](https://fakeurl.com)
+- [Recursive Fibonacci solution branch link](https://github.com/leccode/fibonacci-solutions-tree/blob/feat/recursive-fibonacci/src/tree/solutions/recursive/RecursiveFibonacci.java)
 - [TODO: Add the iterative solution branch link](https://fakeurl.com)
 - [TODO: Add the formula solution branch link](https://fakeurl.com)
 
