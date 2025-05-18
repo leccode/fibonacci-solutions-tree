@@ -51,7 +51,7 @@ public class RecursiveFibonacci {
      * @return the calculated Fibonacci number.
      */
     public static BigInteger recursiveFibonacci(BigInteger n) {
-        if (n.compareTo(BigInteger.ZERO) < 0) return BigInteger.ONE.negate();;
+        if (n.compareTo(BigInteger.ZERO) < 0) return BigInteger.ONE.negate();
         if (n.equals(BigInteger.ZERO) || n.equals(BigInteger.ONE)) return n;
         return recursiveFibonacci(n.subtract(BigInteger.TWO))
                 .add(recursiveFibonacci(n.subtract(BigInteger.ONE)));
